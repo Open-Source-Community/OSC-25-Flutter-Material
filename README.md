@@ -9,3 +9,7 @@ Welcome to the OSC-25-Flutter-Material repository! This repository contains mate
   - Functions & parameters
   - Control Flow
   - OOP
+- **[Session 2: Intro flutter](https://github.com/Open-Source-Community/OSC-25-Flutter-Material/tree/master/2%20Intro%20Flutter)**
+  - How Flutter app starts
+  - stateless & stateful widget
+  - UI component
