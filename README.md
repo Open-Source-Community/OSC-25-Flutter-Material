@@ -19,3 +19,7 @@ Welcome to the OSC-25-Flutter-Material repository! This repository contains mate
   - List view
   - Navigation
   - Bottom Navigator Bar
+- **[Session 4: Flutter UI Challenges](https://github.com/Open-Source-Community/OSC-25-Flutter-Material/tree/master/4%20Flutter%20UI%20Challenges)**
+  - List View 
+  - ToDo App
+  - UI Challenges
