@@ -13,3 +13,9 @@ Welcome to the OSC-25-Flutter-Material repository! This repository contains mate
   - How Flutter app starts
   - stateless & stateful widget
   - UI component
+- **[Session 3: Advance flutter Widgets](https://github.com/Open-Source-Community/OSC-25-Flutter-Material/tree/master/3%20Advance%20Flutter%20Widgets)**
+  - Circle Avatar
+  - Media Query
+  - List view
+  - Navigation
+  - Bottom Navigator Bar
